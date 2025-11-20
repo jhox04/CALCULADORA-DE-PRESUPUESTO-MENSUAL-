@@ -1,41 +1,69 @@
 # Uso de Markdown en Proyectos de Software
 
+# Documentación sobre Markdown
+
 ## ¿Qué es Markdown y por qué se utiliza en proyectos de software?
 
-Markdown es un lenguaje de marcado ligero que permite dar formato a textos usando sintaxis simple y fácil de leer. Se utiliza ampliamente en proyectos de software porque facilita la creación de documentación clara sin necesidad de herramientas complejas.
+Markdown es un lenguaje de marcado ligero que permite dar formato a
+textos de manera simple y legible.\
+Es ampliamente utilizado en proyectos de software porque:
 
-Permite escribir encabezados, listas, enlaces, tablas, imágenes y más, sin perder legibilidad. Su mayor ventaja es que cualquier archivo en Markdown puede visualizarse correctamente dentro de plataformas de desarrollo modernas.
+-   Es fácil de escribir y leer incluso sin procesar.
+-   Permite crear documentación clara sin herramientas complejas.
+-   Es compatible con la mayoría de plataformas de desarrollo,
+    especialmente GitHub.
+-   Facilita mantener documentación versionada junto al código fuente.
 
----
+------------------------------------------------------------------------
 
-## Ejemplos prácticos de Markdown
+## Ejemplo práctico de uso de Markdown
 
 ### Encabezados
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
-- Elemento A
-- Elemento B
-- Elemento C
 
-1. Paso uno
-2. Paso dos
-3. Paso tres
-| Producto | Precio |
-|----------|--------|
-| Manzanas | $2.00  |
-| Pan      | $1.50  |
+``` md
+# Título 1
+## Título 2
+### Título 3
+```
 
-![Descripción de la imagen](https://ruta-de-imagen.com/imagen.png)
- 
-## Ventajas de utilizar Markdown con GitHub
+### Listas
 
-Compatibilidad total: GitHub interpreta Markdown de forma automática y lo muestra con formato limpio.
+**Lista no ordenada:** - Item 1\
+- Item 2\
+- Item 3
 
-Control de versiones: Permite llevar historial claro de cambios en la documentación.
+**Lista ordenada:** 1. Paso 1\
+2. Paso 2\
+3. Paso 3
 
-Simplicidad: No necesitas editar en Word o PDF; todo es texto plano.
+### Tablas
 
-Portabilidad: Funciona en cualquier sistema operativo sin requerir software adicional.
+``` md
+| Nombre | Edad | Ciudad |
+|--------|------|---------|
+| Ana    | 22   | Quito   |
+| Luis   | 30   | Loja    |
+```
 
-Estándar común: La mayoría de proyectos de software usan Markdown para documentación, guías de instalación y manuales técnicos.
+### Enlaces
+
+``` md
+[GitHub](https://github.com)
+```
+
+### Imágenes
+
+``` md
+![Ejemplo de imagen](ruta/imagen.png)
+```
+
+------------------------------------------------------------------------
+
+## Ventajas de utilizar Markdown en combinación con GitHub
+
+-   Permite crear documentación profesional usando archivos README.md.
+-   GitHub renderiza Markdown automáticamente, facilitando la lectura en
+    repositorios.
+-   Simplifica la colaboración en documentación mediante pull requests.
+-   Es ideal para wikis, issues, comentarios y documentación técnica.
+-   Permite integrar imágenes, código, tablas y enlaces de forma rápida.

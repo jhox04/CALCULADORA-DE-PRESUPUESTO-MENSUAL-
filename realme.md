@@ -74,6 +74,6 @@ Se propone añadir gráficos visuales de barras o pastel para mejorar la compren
 
 ---
 
-## 🔄 Reflexión sobre el Control de Versiones
+## Reflexión sobre el Control de Versiones
 El control de versiones permitió gestionar los cambios del proyecto de forma ordenada, facilitando la actualización del DRS, pruebas y archivos del sistema sin perder información previa. GitHub resultó esencial para mantener versiones limpias, registrar mejoras y asegurar un seguimiento claro de la evolución del software.
 

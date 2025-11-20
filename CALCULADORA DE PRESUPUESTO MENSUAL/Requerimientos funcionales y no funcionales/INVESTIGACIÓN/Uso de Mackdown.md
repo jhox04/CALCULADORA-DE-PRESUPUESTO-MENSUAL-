@@ -11,7 +11,6 @@ Permite escribir encabezados, listas, enlaces, tablas, imágenes y más, sin per
 ## Ejemplos prácticos de Markdown
 
 ### Encabezados
-```markdown
 # Encabezado 1
 ## Encabezado 2
 ### Encabezado 3
@@ -28,7 +27,8 @@ Permite escribir encabezados, listas, enlaces, tablas, imágenes y más, sin per
 | Pan      | $1.50  |
 
 ![Descripción de la imagen](https://ruta-de-imagen.com/imagen.png)
- Ventajas de utilizar Markdown con GitHub
+ 
+## Ventajas de utilizar Markdown con GitHub
 
 Compatibilidad total: GitHub interpreta Markdown de forma automática y lo muestra con formato limpio.
 

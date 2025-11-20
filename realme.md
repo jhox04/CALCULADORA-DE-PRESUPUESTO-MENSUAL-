@@ -1,9 +1,9 @@
  # Calculadora de Presupuesto Mensual
 
-## 📌 Descripción del Caso
+## Descripción del Caso
 La Calculadora de Presupuesto Mensual es un sistema que permite a un usuario registrar sus ingresos y gastos para obtener automáticamente el balance del mes. El sistema facilita la organización financiera mediante operaciones simples de entrada de datos, procesamiento interno y salida de información clara y útil.
 
-## 🎯 Objetivos
+## Objetivos
 - Registrar ingresos y gastos de forma ordenada.
 - Calcular automáticamente el total de ingresos, total de gastos y el balance mensual.
 - Permitir la modificación y eliminación de registros.
@@ -11,9 +11,9 @@ La Calculadora de Presupuesto Mensual es un sistema que permite a un usuario reg
 
 ---
 
-## 📝 Requerimientos del Sistema
+## Requerimientos del Sistema
 
-### 🔹 Requerimientos Funcionales (RF)
+### Requerimientos Funcionales (RF)
 
 | Código | Tipo | Descripción |
 |--------|------|-------------|
@@ -25,7 +25,7 @@ La Calculadora de Presupuesto Mensual es un sistema que permite a un usuario reg
 
 ---
 
-### 🔹 Requerimientos No Funcionales (RNF)
+### Requerimientos No Funcionales (RNF)
 
 | Código | Tipo | Descripción |
 |--------|------|-------------|
@@ -35,7 +35,7 @@ La Calculadora de Presupuesto Mensual es un sistema que permite a un usuario reg
 
 ---
 
-## ✔ Criterios de Aceptación
+## Criterios de Aceptación
 
 | Código | Criterio |
 |--------|----------|
@@ -47,9 +47,9 @@ La Calculadora de Presupuesto Mensual es un sistema que permite a un usuario reg
 
 ---
 
-## 🧪 Tabla de Pruebas
+## Tabla de Pruebas
 
-### 🔹 Pruebas Unitarias
+### Pruebas Unitarias
 
 | ID | Requerimiento | Descripción de Prueba | Datos de Entrada | Resultado Esperado |
 |----|----------------|------------------------|-------------------|--------------------|
@@ -59,7 +59,7 @@ La Calculadora de Presupuesto Mensual es un sistema que permite a un usuario reg
 
 ---
 
-### 🔹 Pruebas de Validación
+### Pruebas de Validación
 
 | ID | Requerimiento | Descripción | Datos de Entrada | Resultado Esperado |
 |----|--------------|-------------|------------------|--------------------|
@@ -68,7 +68,7 @@ La Calculadora de Presupuesto Mensual es un sistema que permite a un usuario reg
 
 ---
 
-## 🔧 Tipo de Mantenimiento Propuesto
+### Tipo de Mantenimiento Propuesto
 **Mantenimiento perfectivo:**  
 Se propone añadir gráficos visuales de barras o pastel para mejorar la comprensión del presupuesto mensual, aumentando la usabilidad general del sistema.
 

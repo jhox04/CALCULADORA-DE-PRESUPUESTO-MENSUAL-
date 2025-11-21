@@ -48,7 +48,7 @@ Es ampliamente utilizado en proyectos de software porque:
 ### Enlaces
 
 ``` md
-[GitHub](https://github.com)
+[GitHub](https://unemi.eu)
 ```
 
 ### Imágenes
